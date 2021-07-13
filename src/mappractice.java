@@ -2,6 +2,8 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.stream.IntStream;
 
+//Doubt clearing class
+
 public class mappractice {
 
 	public static void main(String[] args) {
